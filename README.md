@@ -16,9 +16,10 @@
 <img src="https://github.com/besaoct/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </a>
 
+<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=besaoct&show_icons=true&locale=en&layout=compact" alt="besaoct" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=besaoct&show_icons=true&locale=en" alt="besaoct" /></p>
+-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=besaoct&" alt="besaoct" /></p>
 

@@ -1,4 +1,4 @@
-###  👋
+#  👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=besaoct&label=Profile%20views&color=0e75b6&style=flat" alt="besaoct" /> </p>
 
@@ -11,6 +11,10 @@
 </p>
 
 
+<a href="https://github.com/besaoct/github-stats">
+<img src="https://github.com/besaoct/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/besaoct/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=besaoct&show_icons=true&locale=en&layout=compact" alt="besaoct" /></p>
 

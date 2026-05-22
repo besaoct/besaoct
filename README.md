@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=besaoct&label=Profile%20views&color=0e75b6&style=flat" alt="besaoct" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect</h3>
 <p align="left">
 <a href="https://twitter.com/besaoct"  target="blank">
  <img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" left="5" alt="besaoct"  /></a>

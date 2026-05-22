@@ -5,7 +5,7 @@
 <a href="https://twitter.com/besaoct"  target="blank">
  <img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" left="5" alt="besaoct"  /></a>
 <a href="https://linkedin.com/in/besaoct" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="besaoct" /></a>
-<a href="https://www.leetcode.com/besaoct" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="besaoct" /></a>
+<!-- <a href="https://www.leetcode.com/besaoct" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="besaoct" /></a> -->
 </p>
 
 
